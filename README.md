@@ -21,6 +21,7 @@ A software developer with 10+ years in the game, building all sorts of apps, too
 ## ✍️ Get in Touch:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](yaliyyaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/j-alija/) 
 
-Feel free to reach out — I'm always open to collaborations and exploring new ideas and projects. Let’s build something great together! 🚀
+Feel free to reach out — I'm always open to collaborations and exploring new ideas and projects. <br />
+Let’s build something great together! 🚀
 
 ![snake animation](https://github.com/yaliya/yaliya/blob/output/github-contribution-grid-snake2.svg)
