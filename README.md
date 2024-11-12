@@ -23,4 +23,4 @@ A software developer with 10+ years in the game, building all sorts of apps, too
 
 Feel free to reach out — I'm always open to collaborations and exploring new ideas and projects. Let’s build something great together! 🚀
 
-![snake animation](https://github.com/yaliya/yaliya/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/yaliya/blob/output/github-contribution-grid-snake2.svg)
