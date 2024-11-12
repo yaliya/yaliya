@@ -1,4 +1,4 @@
-# Hey there 👋! My name is Jusuf Alija
+# Hey there 👋! My name is Yusuf Aliya
 
 A software developer with 10+ years in the game, building all sorts of apps, tools, and systems. Comfortable across the stack and always up for a coding challenge, whether it's front-end flair or backend muscle. Known for keeping things organized, catching bugs before they cause chaos, and finding practical solutions to tricky problems. I’ve led a few projects, helped newer devs find their groove, and love keeping up with new tech that makes life easier. Down to earth, collaborative, and always ready to jump in and get stuff done. Here is more about my professional expertise: 👇
 
